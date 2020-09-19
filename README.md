@@ -15,3 +15,10 @@ API used: https://covid19.mathdro.id/api
 
 Setup:
 - run ```npm i && npm start```
+
+## npm Command:
+
+1. npm install
+2. npm audit fix
+3. npm start
+4. npm run build
